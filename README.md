@@ -13,3 +13,6 @@
 
 # CTF platforms
 - pwnable.tw
+
+# Web
+- webhook: https://webhook.site
